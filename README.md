@@ -1,7 +1,7 @@
 
-# Github Project Classic to Projects V2 Migrator
+# Github Projects V2 Migrator
 
-## Easily migrate your cards and issues from classic project to V2 project
+## Easily migrate your Project V2 cards and issues from one org to another
 
 ### Usage
 
